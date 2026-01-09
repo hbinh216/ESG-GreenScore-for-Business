@@ -1,7 +1,7 @@
 {
   "name": "GreenScore SILVER Certificate",
   "description": "Chứng nhận doanh nghiệp đạt chuẩn ESG hạng Bạc (ESG 55-79). Verified by GreenScore Blockchain.",
-  "image": "https://via.placeholder.com/500x500/C0C0C0/000000?text=SILVER+Certificate",
+  "image": "https://raw.githubusercontent.com/hbinh216/ESG-GreenScore-for-Business/refs/heads/main/NFT/silver_image.png",
   "attributes": [
     { "trait_type": "Rank", "value": "Silver" },
     { "trait_type": "Credit", "value": "Standard" }

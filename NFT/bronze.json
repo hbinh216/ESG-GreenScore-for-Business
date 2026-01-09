@@ -1,7 +1,7 @@
 {
   "name": "GreenScore BRONZE Certificate",
   "description": "Chứng nhận doanh nghiệp đạt chuẩn ESG hạng Đồng (ESG 35-54). Verified by GreenScore Blockchain.",
-  "image": "https://via.placeholder.com/500x500/CD7F32/000000?text=BRONZE+Certificate",
+  "image": "https://raw.githubusercontent.com/hbinh216/ESG-GreenScore-for-Business/refs/heads/main/NFT/bronze_image.png",
   "attributes": [
     { "trait_type": "Rank", "value": "Bronze" }
   ]

@@ -1,7 +1,7 @@
 {
   "name": "GreenScore GOLD Certificate",
   "description": "Chứng nhận doanh nghiệp đạt chuẩn ESG hạng Vàng (ESG > 80). Verified by GreenScore Blockchain.",
-  "image": "https://via.placeholder.com/500x500/FFD700/000000?text=GOLD+Certificate",
+  "image": "https://raw.githubusercontent.com/hbinh216/ESG-GreenScore-for-Business/refs/heads/main/NFT/gold_image.png",
   "attributes": [
     { "trait_type": "Rank", "value": "Gold" },
     { "trait_type": "Credit", "value": "High Priority" }
