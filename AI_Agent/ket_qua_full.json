@@ -1,41 +1,43 @@
 {
     "metadata": {
-        "timestamp": "2026-01-10 16:21:28"
+        "timestamp": "2026-01-10 22:13:12"
     },
     "evaluation": {
-        "final_score": 81.46,
+        "final_score": 81.45,
         "rank": "GOLD",
         "pillar_scores": {
-            "E": 92.2,
-            "S": 88.7,
-            "G": 60.5
+            "E": 85.75,
+            "S": 88.25,
+            "G": 68.5
         }
     },
     "detailed_scores": {
-        "E1": 95,
-        "E2": 90,
-        "E3": 88,
-        "E4": 90,
+        "E1": 90,
+        "E2": 85,
+        "E3": 75,
+        "E4": 80,
         "E5": 95,
         "S1": 85,
         "S2": 85,
         "S3": 90,
         "S4": 90,
-        "S5": 98,
-        "G1": 20,
+        "S5": 95,
+        "G1": 40,
         "G2": 95,
         "G3": 90,
         "G4": 70
     },
     "analysis": {
         "insights": {
-            "E": "Vinamilk thể hiện cam kết mạnh mẽ và hành động cụ thể trong quản lý môi trường. Công ty có lộ trình Net Zero rõ ràng đến năm 2050, được hỗ trợ bởi các mục tiêu giảm phát thải ngắn hạn và dài hạn (SBTi). Vinamilk đã đạt được nhiều chứng nhận quan trọng như ISO 14064 (kiểm kê GHG 100% nhà máy/trang trại), ISO 50001 (quản lý năng lượng 100% nhà máy), ISO 14001 (quản lý môi trường), và đặc biệt là 4 đơn vị được chứng nhận trung hòa carbon theo PAS 2060. Công ty đầu tư đáng kể vào năng lượng tái tạo (điện mặt trời, biomass, biogas, CNG), kho thông minh tiết kiệm năng lượng, và các dự án hấp thụ carbon như \"Cánh rừng Net Zero\". Mặc dù tổng lượng năng lượng và nước tiêu thụ có tăng nhẹ do mở rộng sản xuất và biến đổi khí hậu, Vinamilk đã giảm cường độ phát thải GHG trên mỗi tấn sản phẩm và có các sáng kiến tiết kiệm nước hiệu quả. Quản lý chất thải được thực hiện theo mô hình 5R và ReSOLVE, với 100% chất thải trang trại được xử lý thành tài nguyên và các chương trình tái chế vỏ hộp sữa, giảm ống hút nhựa.",
-            "S": "Vinamilk cho thấy sự quan tâm sâu sắc đến người lao động và cộng đồng. Về an toàn lao động, công ty đạt chứng nhận ISO 45001, không có ca tử vong, giảm đáng kể tỷ lệ tổn thương khi làm việc và đầu tư lớn vào an toàn. Tuy nhiên, vẫn có 1 vụ vi phạm và tỷ lệ bệnh nghề nghiệp tăng nhẹ, với một số vấn đề tập trung tại một công ty con. Vinamilk cam kết mạnh mẽ về đa dạng, bình đẳng và hòa nhập (DEI), với tỷ lệ nữ quản lý cấp cao khá tốt (26,5%) và các chính sách hỗ trợ lao động nữ, bình đẳng lương. Chương trình đào tạo và phát triển nhân sự rất toàn diện, với 5 trụ cột chiến lược và số giờ đào tạo tăng đáng kể. Trong chuỗi cung ứng, Vinamilk có quy trình đánh giá nhà cung cấp nghiêm ngặt (bao gồm tiêu chí ESG), hỗ trợ nông dân và kiểm soát 100% nguyên liệu đầu vào. Đặc biệt, Vinamilk nổi bật với các hoạt động cộng đồng, đóng góp gần 75 tỷ đồng trong năm 2024 cho các chương trình dinh dưỡng học đường, quỹ sữa, hỗ trợ y tế và cứu trợ thiên tai, thể hiện trách nhiệm xã hội bền vững và nhất quán.",
-            "G": "Vinamilk có khung quản trị phát triển bền vững rõ ràng với sự tham gia của Hội đồng Quản trị và các ủy ban chuyên trách. Công ty thể hiện cam kết mạnh mẽ về đạo đức kinh doanh thông qua bộ quy tắc ứng xử, 5 giá trị cốt lõi, chính sách chống tham nhũng nghiêm ngặt và các kênh báo cáo minh bạch, không ghi nhận vụ việc tham nhũng hay vi phạm quy tắc ứng xử nào. Về minh bạch thuế, Vinamilk cam kết tuân thủ đầy đủ luật pháp, không tránh thuế, đóng góp ngân sách đáng kể và báo cáo tài chính được kiểm toán độc lập. Tuy nhiên, thông tin về tỷ lệ thành viên độc lập trong Hội đồng Quản trị chưa được cung cấp rõ ràng trong báo cáo trích xuất. Về bảo mật dữ liệu, Vinamilk có cam kết bảo vệ thông tin khách hàng và chưa ghi nhận khiếu nại nào, nhưng việc chỉ có 1/26 đơn vị đạt chứng nhận ISO 27001 cho thấy cần mở rộng phạm vi áp dụng để đảm bảo an ninh thông tin toàn diện hơn."
+            "E": "Vinamilk thể hiện cam kết mạnh mẽ và toàn diện về môi trường, đặc biệt là mục tiêu Net Zero 2050 với lộ trình rõ ràng và các mục tiêu trung hạn. Công ty đã đạt được nhiều chứng nhận quốc tế (ISO 14001, ISO 50001, ISO 14064, PAS 2060 cho một số đơn vị) và tích cực tham gia các sáng kiến toàn cầu như SBTi và CDP. Các hoạt động giảm phát thải GHG, sử dụng năng lượng tái tạo (điện mặt trời, biomass, CNG), quản lý chất thải theo mô hình kinh tế tuần hoàn (5R, ReSOLVE, biogas, tái chế vỏ hộp, loại bỏ ống hút nhựa) và bảo vệ đa dạng sinh học đều được triển khai mạnh mẽ và có số liệu cụ thể. Tuy nhiên, tổng lượng tiêu thụ năng lượng và nước, cũng như lượng chất thải chôn lấp/thiêu hủy có xu hướng tăng nhẹ trong năm 2024, mặc dù công ty đã đưa ra các giải thích hợp lý.",
+            "S": "Vinamilk có chính sách xã hội rất mạnh mẽ, tập trung vào an toàn lao động, đa dạng giới, đào tạo và phát triển nhân lực, chuỗi cung ứng bền vững và đóng góp cộng đồng. Công ty đạt chứng nhận ISO 45001 về an toàn lao động, giảm đáng kể tỷ lệ tổn thương khi làm việc và không có tử vong. Chính sách đa dạng giới được thể hiện qua tỷ lệ lãnh đạo nữ, chính sách lương thưởng công bằng, hỗ trợ lao động nữ và đào tạo nhận thức giới. Chương trình đào tạo nhân lực rất đa dạng và có số giờ đào tạo cao. Chuỗi cung ứng được quản lý chặt chẽ với các tiêu chí ESG và hỗ trợ nông dân địa phương. Đặc biệt, các hoạt động cộng đồng của Vinamilk rất nổi bật với đóng góp tài chính lớn, nhiều chương trình ý nghĩa về dinh dưỡng, giáo dục, sức khỏe và hỗ trợ thiên tai, có tác động rõ ràng và bền vững.",
+            "G": "Vinamilk có khung quản trị bền vững rõ ràng với sự tham gia của Hội đồng Quản trị và các ủy ban chuyên trách. Công ty có Bộ Quy tắc Ứng xử, chính sách chống tham nhũng nghiêm ngặt, các kênh báo cáo vi phạm và cam kết bảo vệ người tố giác, với kết quả là không có vụ việc tham nhũng hay vi phạm đạo đức kinh doanh nào được ghi nhận. Minh bạch thuế được đảm bảo thông qua việc tuân thủ pháp luật, không sử dụng thiên đường thuế và báo cáo tài chính được kiểm toán độc lập. Mặc dù có cam kết về an ninh thông tin và hệ thống quản lý tích hợp, tỷ lệ các đơn vị đạt chứng nhận ISO 27001 còn thấp, cho thấy cần tăng cường triển khai hệ thống bảo mật dữ liệu toàn diện hơn."
         },
         "flags": [
-            "G1: Thiếu thông tin cụ thể về tỷ lệ thành viên độc lập trong Hội đồng Quản trị.",
-            "G4: Chứng nhận ISO 27001 chỉ áp dụng cho 1/26 đơn vị, cho thấy phạm vi bảo mật dữ liệu chưa toàn diện."
+            "Cần cung cấp thông tin chi tiết hơn về cơ cấu độc lập của Hội đồng Quản trị để đánh giá đầy đủ về quản trị.",
+            "Tỷ lệ các đơn vị đạt chứng nhận ISO 27001 về an ninh thông tin còn thấp (4%), cho thấy cần tăng cường triển khai hệ thống bảo mật dữ liệu toàn diện hơn trên toàn tập đoàn.",
+            "Mặc dù có giải thích, sự gia tăng tổng lượng tiêu thụ năng lượng, nước và lượng chất thải chôn lấp/thiêu hủy trong năm 2024 cần được theo dõi chặt chẽ và có biện pháp giảm thiểu hiệu quả hơn trong tương lai.",
+            "Cần tiếp tục theo dõi và cải thiện tình hình an toàn lao động tại các đơn vị có rủi ro cao như VietSugar và Angkor Milk."
         ]
     }
 }

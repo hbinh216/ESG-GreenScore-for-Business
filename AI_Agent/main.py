@@ -119,6 +119,7 @@ class GreenScoreAgent:
                 "response_mime_type": "application/json"
             }
         )
+
         return response.text
 
     def process_final_report(self, ai_output_json: str) -> Dict[str, Any]:
