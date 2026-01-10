@@ -1,0 +1,9 @@
+PyPDF2
+yfinance
+transformers
+torch
+sentence-transformers
+beautifulsoup4
+requests
+google-api-python-client
+google-generativeai
